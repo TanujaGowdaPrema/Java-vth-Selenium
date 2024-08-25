@@ -73,12 +73,7 @@ public class operator_operand {
 		
 		//System.out.println((10<5) && (20>10)); 
 		
-		
-		
-		
-		
-		
-		
+	
 	}
 
 }
